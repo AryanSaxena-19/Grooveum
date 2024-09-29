@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="appwidget_text">Play</string>
+    <string name="appwidget">Add widget</string>
+    <string name="app_widget_description">Grooveum Music</string>"
+</resources>

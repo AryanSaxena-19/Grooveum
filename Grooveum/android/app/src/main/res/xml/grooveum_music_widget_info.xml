@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appwidget-provider xmlns:android="https//schemas.android.com/apk/res/android"
+    android:description="@string/app_widget_description"
+    android:initialKeyguardLayout="@layout/grooveum_music_widget"
+    android:initialLayout="@layout/grooveum_music_widget"
+    android:minWigth="180dp"
+    android:minHeight="40dp"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMills="86400000"
+    android:widgetCategory="home_screen" />
