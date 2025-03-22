@@ -90,7 +90,7 @@ See the CONTRIBUTING.md for build instructions and contribution guidelines.
 
 Developed and maintained by Aryan Saxena
 
-Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aryan-saxena-aaa19uchiha/)
+[![LinkedIn](https://img.shields.io/badge/Connect_with_me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-saxena-aaa19uchiha/)
 
 Special thanks to all contributors! Check them out here
 
