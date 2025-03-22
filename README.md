@@ -53,6 +53,7 @@ Clean, modern, and responsive interface with dynamic color support
 
 Screenshots
 <img src="./assets/main-interface.webp" width="600" alt="Main interface" /> <br/><br/> <img src="./assets/player.webp" width="600" alt="Player screen" /> <br/><br/> <img src="./assets/ytm-sync.webp" width="600" alt="YouTube Music Sync" />
+
 [!WARNING] Grooveum requires YouTube Music to be supported in your region. Use a VPN or proxy if YTM isn’t available in your country.
 
 FAQ
@@ -73,10 +74,6 @@ We welcome all contributors! Whether you're a developer, designer, or translator
 
 See the CONTRIBUTING.md for build instructions and contribution guidelines.
 
-Translating
-Grooveum uses Weblate for translations. Help us bring Grooveum to users worldwide!
-
-<a href="https://hosted.weblate.org/projects/grooveum/"> <img src="https://hosted.weblate.org/widget/grooveum/multi-auto.svg" alt="Translation status" /> </a>
 Attribution
 Developed and maintained by Aryan Saxena
 
