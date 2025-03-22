@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Grooveum Orange G (No Background Circle) -->
+    <path
+        android:fillColor="#FF4500"
+        android:pathData="M130,100h-50v20h30c-5,10 -15,15 -30,15 -20,0 -35,-15 -35,-35s15,-35 35,-35c10,0 20,4 25,10l15,-15c-10,-10 -25,-15 -40,-15 -33,0 -60,27 -60,60s27,60 60,60 55,-25 55,-55v-5z"/>
+</vector>
