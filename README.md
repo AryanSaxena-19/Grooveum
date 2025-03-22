@@ -62,7 +62,7 @@ Clean, modern, and responsive interface with dynamic color support
 
 <img src="./assets/main-interface.webp" width="600" alt="Main interface" /> <br/><br/> <img src="./assets/player.webp" width="600" alt="Player screen" /> <br/><br/> <img src="./assets/ytm-sync.webp" width="600" alt="YouTube Music Sync" />
 
-**#### [!WARNING]** 
+#### [!WARNING]
 
 Grooveum requires YouTube Music to be supported in your region. Use a VPN or proxy if YTM isn’t available in your country.
 
