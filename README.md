@@ -1,4 +1,4 @@
-Grooveum
+# **Grooveum**
 
 <img src="./assets/grooveum.webp" height="72">
 
@@ -8,7 +8,8 @@ A Material 3 YouTube Music client & local music player for Android
 
 <img src="assets/badge_github.png" alt="Get it on GitHub" height="40">
 
-Features
+### Features
+
 Grooveum is a feature-rich, Material 3-powered YouTube Music client and local music player designed to elevate your music experience with a sleek UI, powerful playback features, and seamless YouTube Music integration.
 
 🎵 Stream and manage music from YouTube Music
@@ -56,9 +57,12 @@ Clean, modern, and responsive interface with dynamic color support
 
 <img src="./assets/main-interface.webp" width="600" alt="Main interface" /> <br/><br/> <img src="./assets/player.webp" width="600" alt="Player screen" /> <br/><br/> <img src="./assets/ytm-sync.webp" width="600" alt="YouTube Music Sync" />
 
-[!WARNING] Grooveum requires YouTube Music to be supported in your region. Use a VPN or proxy if YTM isn’t available in your country.
+**#### [!WARNING]** 
 
-FAQ
+Grooveum requires YouTube Music to be supported in your region. Use a VPN or proxy if YTM isn’t available in your country.
+
+#### FAQ
+
 Q: How do I scrobble music to LastFM, LibreFM, ListenBrainz, or GNU FM?
 You can use third-party scrobbling apps like Pano Scrobbler.
 
@@ -71,19 +75,22 @@ Open "Developer settings" from the three-dot menu.
 
 Enable "Unknown sources."
 
-Building & Contributing
+#### Building & Contributing
+
 We welcome all contributors! Whether you're a developer, designer, or translator — your help is valuable.
 
 See the CONTRIBUTING.md for build instructions and contribution guidelines.
 
-Attribution
+#### Attribution
+
 Developed and maintained by Aryan Saxena
 
 Connect with me on LinkedIn
 
 Special thanks to all contributors! Check them out here
 
-Disclaimer
+#### Disclaimer
+
 Grooveum is not affiliated with YouTube, Google LLC, or any of their subsidiaries.
 
 All trademarks and intellectual property rights belong to their respective owners.
