@@ -80,12 +80,6 @@ Open "Developer settings" from the three-dot menu.
 
 Enable "Unknown sources."
 
-#### Building & Contributing
-
-We welcome all contributors! Whether you're a developer, designer, or translator — your help is valuable.
-
-See the CONTRIBUTING.md for build instructions and contribution guidelines.
-
 #### Attribution
 
 Developed and maintained by Aryan Saxena
