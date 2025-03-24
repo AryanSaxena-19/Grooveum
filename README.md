@@ -86,8 +86,6 @@ Developed and maintained by Aryan Saxena
 
 [![LinkedIn](https://img.shields.io/badge/Connect_with_me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-saxena-aaa19uchiha/)
 
-Special thanks to all contributors! Check them out here
-
 #### Disclaimer
 
 Grooveum is not affiliated with YouTube, Google LLC, or any of their subsidiaries.
