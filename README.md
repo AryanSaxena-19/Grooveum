@@ -1,13 +1,15 @@
-# **Grooveum**
+<p align="center">
+  <img src="./assets/grooveum.webp" alt="Grooveum Logo" width="200">
+</p>
 
-<img src="./assets/grooveum.webp" height="72">
+<h1 align="center"> 𝙂𝙧𝙤𝙤𝙫𝙚𝙪𝙢 </h1>
 
 
 A Material 3 YouTube Music client & local music player for Android
 
 [![Latest release](https://img.shields.io/github/v/release/AryanSaxena-19/Grooveum?include_prereleases)](https://github.com/AryanSaxena-19/Grooveum/releases)
 [![License](https://img.shields.io/github/license/AryanSaxena-19/Grooveum)](https://www.gnu.org/licenses/gpl-3.0)
-[[![Downloads](https://img.shields.io/github/downloads/AryanSaxena-19/Grooveum/total)](https://github.com/AryanSaxena-19/Grooveum/releases)](https://github.com/AryanSaxena-19/Grooveum/releases/download/v0.7.6/Grooveum-0.7.6-universal-release.apk)
+[![Downloads](https://img.shields.io/github/downloads/AryanSaxena-19/Grooveum/total)](https://github.com/AryanSaxena-19/Grooveum/releases/download/v0.7.6/Grooveum-0.7.6-universal-release.apk)
 
 
 
