@@ -5,15 +5,30 @@
 <h1 align="center"> 𝙂𝙧𝙤𝙤𝙫𝙚𝙪𝙢 </h1>
 
 
-A Material 3 YouTube Music client & local music player for Android
+🎶 **Grooveum** – The ultimate **Material 3** YouTube Music client & local music player for Android.  
 
-[![Latest release](https://img.shields.io/github/v/release/AryanSaxena-19/Grooveum?include_prereleases)](https://github.com/AryanSaxena-19/Grooveum/releases)
-[![License](https://img.shields.io/github/license/AryanSaxena-19/Grooveum)](https://www.gnu.org/licenses/gpl-3.0)
-[![Downloads](https://img.shields.io/github/downloads/AryanSaxena-19/Grooveum/total)](https://github.com/AryanSaxena-19/Grooveum/releases/download/v0.7.6/Grooveum-0.7.6-universal-release.apk)
+🔥 **Stream, organize, and vibe** with your favorite tracks—all in a stunning, modern UI.  
+🎧 **Seamless playback**, **deep customization**, and **next-gen audio experience** await!  
+🚀 Unlock a **powerful & elegant** way to enjoy your music like never before.  
 
+<p align="center">
+  <a href="https://github.com/AryanSaxena-19/Grooveum/releases">
+    <img src="https://img.shields.io/github/v/release/AryanSaxena-19/Grooveum?include_prereleases" alt="Latest Release">
+  </a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+    <img src="https://img.shields.io/github/license/AryanSaxena-19/Grooveum" alt="License">
+  </a>
+  <a href="https://github.com/AryanSaxena-19/Grooveum/releases/download/v0.7.6/Grooveum-0.7.6-universal-release.apk">
+    <img src="https://img.shields.io/github/downloads/AryanSaxena-19/Grooveum/total" alt="Downloads">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/AryanSaxena-19/Grooveum/releases/download/v0.7.6/Grooveum-0.7.6-universal-release.apk">
+    <img src="assets/badge_github.png" alt="Get it on GitHub" height="40">
+  </a>
+</p>
 
-<img src="assets/badge_github.png" alt="Get it on GitHub" height="40">
 
 ### Features
 
